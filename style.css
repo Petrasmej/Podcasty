@@ -1,0 +1,17 @@
+html {
+	box-sizing: border-box;
+}
+
+*,
+::before,
+::after {
+	box-sizing: inherit;
+}
+
+html {
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+
+body {
+	color: #666;
+}
